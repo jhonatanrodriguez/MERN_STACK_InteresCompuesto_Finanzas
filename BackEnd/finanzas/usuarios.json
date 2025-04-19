@@ -1,0 +1,227 @@
+[{
+  "_id": {
+    "$oid": "67fb3501a56022ce0cba2aff"
+  },
+  "nombre": "jhonatan",
+  "apellido": "trochez",
+  "cedula": "123",
+  "nombreBanco": "BBVA",
+  "clave": 456,
+  "actividadFinanciera": {
+    "tipo": "interes simple",
+    "capital": 500,
+    "monto": 0,
+    "tasaNominal": 0.12,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "dias",
+      "cantidad": 180
+    },
+    "periodos": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fb369c10e829ea614495bb"
+  },
+  "nombre": "jhonatan",
+  "apellido": "trochez",
+  "cedula": "123",
+  "nombreBanco": "BBVA",
+  "clave": 456,
+  "actividadFinanciera": {
+    "tipo": "descuento compuesto",
+    "capital": 0,
+    "monto": 350,
+    "tasaNominal": 0.11,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "años",
+      "cantidad": 5
+    },
+    "periodos": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "inversionInicial": 1000
+  }
+},
+{
+  "_id": {
+    "$oid": "67fc0c1baf85c675136a41df"
+  },
+  "nombre": "alejandra",
+  "apellido": "marquez",
+  "cedula": "456",
+  "nombreBanco": "BBVA",
+  "clave": 951,
+  "actividadFinanciera": {
+    "tipo": "descuento simple : inversion",
+    "capital": 0,
+    "monto": 1000,
+    "tasaNominal": 0.1,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "dias",
+      "cantidad": 150
+    },
+    "periodos": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fc0c36af85c675136a41e3"
+  },
+  "nombre": "pepe",
+  "apellido": "lebu",
+  "cedula": "592",
+  "nombreBanco": "BBVA",
+  "clave": 971,
+  "actividadFinanciera": {
+    "tipo": "descuento simple : financiamiento",
+    "capital": 0,
+    "monto": 5000,
+    "tasaNominal": 0.3,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "meses",
+      "cantidad": 10
+    },
+    "periodos": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fc0c57af85c675136a41e7"
+  },
+  "nombre": "alejandra",
+  "apellido": "marquez",
+  "cedula": "456",
+  "nombreBanco": "BBVA",
+  "clave": 951,
+  "actividadFinanciera": {
+    "tipo": "interes simple",
+    "capital": 2000,
+    "monto": 0,
+    "tasaNominal": 0.2,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "meses",
+      "cantidad": 8
+    },
+    "periodos": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fc17a8af85c675136a41f1"
+  },
+  "nombre": "jhonatan",
+  "apellido": "trochez",
+  "cedula": "123",
+  "nombreBanco": "BBVA",
+  "clave": 456,
+  "actividadFinanciera": {
+    "tipo": "interes compuesto",
+    "capital": 2700,
+    "monto": 0,
+    "tasaNominal": 0.15,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "años",
+      "cantidad": 2
+    },
+    "periodos": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fc363baf85c675136a41f7"
+  },
+  "nombre": "pepe",
+  "apellido": "lebu",
+  "cedula": "592",
+  "nombreBanco": "BBVA",
+  "clave": 503,
+  "actividadFinanciera": {
+    "tipo": "interes simple",
+    "capital": 2500,
+    "monto": 0,
+    "tasaNominal": 0.23,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "años",
+      "cantidad": 2
+    },
+    "periodos": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fc3796af85c675136a41f9"
+  },
+  "nombre": "jhonatan",
+  "apellido": "trochez",
+  "cedula": "123",
+  "nombreBanco": "BBVA",
+  "clave": 456,
+  "actividadFinanciera": {
+    "tipo": "descuento simple : inversion",
+    "capital": 0,
+    "monto": 3000,
+    "tasaNominal": 0.2,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "años",
+      "cantidad": 3
+    },
+    "periodos": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fc38adaf85c675136a41fb"
+  },
+  "nombre": "alejandra",
+  "apellido": "marquez",
+  "cedula": "456",
+  "nombreBanco": "BBVA",
+  "clave": 951,
+  "actividadFinanciera": {
+    "tipo": "interes compuesto",
+    "capital": 1200,
+    "monto": 0,
+    "tasaNominal": 0.8,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "meses",
+      "cantidad": 15
+    },
+    "periodos": []
+  }
+},
+{
+  "_id": {
+    "$oid": "67fc3944af85c675136a41fd"
+  },
+  "nombre": "pepe",
+  "apellido": "lebu",
+  "cedula": "592",
+  "nombreBanco": "BBVA",
+  "clave": 456,
+  "actividadFinanciera": {
+    "tipo": "interes compuesto",
+    "capital": 750,
+    "monto": 0,
+    "tasaNominal": 0.27,
+    "interes": 0,
+    "tiempo": {
+      "unidad": "dias",
+      "cantidad": 120
+    },
+    "periodos": []
+  }
+}]

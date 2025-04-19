@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "679ed0784417c040fd6c2a9c"
+  },
+  "nombre": "BBVA",
+  "sucursal": "chipichape",
+  "cedulaCliente": "123"
+},
+{
+  "_id": {
+    "$oid": "67a67f388a63b390add18c74"
+  },
+  "nombre": "BBVA",
+  "sucursal": "chipichape",
+  "cedulaCliente": "456"
+},
+{
+  "_id": {
+    "$oid": "67a67f708a63b390add18c80"
+  },
+  "nombre": "BBVA",
+  "sucursal": "chipichape",
+  "cedulaCliente": "592"
+}]
